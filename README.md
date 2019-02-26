@@ -27,8 +27,9 @@ Para alterar o porta do serviço, substitua o comando npm start por:
 polymer serve -p 5001
 
 ### Time
-Adriana Monteiro (Advogada)
-Elizandra Fernandes (Desenvolvedora)
-Everton Aleixo (Desenvolvedor)
-Lucas Cavalcante (Designer)
-Yago Martins (Desenvolvedor/Negócio)
+
+- Adriana Monteiro (Advogada)
+- Elizandra Fernandes (Desenvolvedora)
+- Everton Aleixo (Desenvolvedor)
+- Lucas Cavalcante (Designer)
+- Yago Martins (Desenvolvedor/Negócio)
